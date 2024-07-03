@@ -1,3 +1,3 @@
 class AppImages {
-  static const String projectPhase = "";
+  static const String splasImage = "assets/icons/SPLASHSCREEN.png";
 }
