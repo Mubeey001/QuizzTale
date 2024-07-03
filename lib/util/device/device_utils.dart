@@ -21,7 +21,7 @@ class QuizzTaleDeviceUtils {
   }
 
   static double getScreenheight() {
-    return MediaQuery.of(Get.context!).size.width;
+    return MediaQuery.of(Get.context!).size.height;
   }
 
   static bool isAndroid() {
